@@ -1,4 +1,6 @@
-## Hi there 👋
+## About 
+
+Hello! I'm a data enthusiast with a passion for transforming complex data into clear, actionable insights. My journey in data science, engineering, and analytics spans supply chain, operations, and sports analytics. With skills in SQL, Python, Excel, and Power BI, I specialize in developing efficient data systems and automating reports that provide valuable insights. I thrive on making data-driven strategies that bring clarity and efficiency to business operations. Whether it's optimizing processes, supporting strategic decisions, or driving continuous improvement, I'm dedicated to using data to make a meaningful impact.
 
 <!--
 **brandonvengstrom/brandonvengstrom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
